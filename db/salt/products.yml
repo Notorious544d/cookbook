@@ -1,0 +1,5 @@
+- name: Aldi Essentials
+  quantity: 3000
+  stores:
+    aldi:
+      2024-11-24: 1.15

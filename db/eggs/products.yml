@@ -1,0 +1,12 @@
+- name: Aldi Mixed
+  quantity: 15
+  stores:
+    aldi:
+      2026-10-19: 2.85
+
+- name: Aldi Medium
+  quantity: 12
+  stores:
+    aldi:
+      2026-10-19: 2.60
+      2024-11-24: 2.35

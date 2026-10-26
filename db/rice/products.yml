@@ -1,0 +1,5 @@
+- name: Veetee
+  quantity: 5000
+  stores:
+    meat shop:
+      2024-11-24: 14.00

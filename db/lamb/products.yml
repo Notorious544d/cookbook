@@ -1,0 +1,5 @@
+- name: Hill Farm
+  quantity: 5000
+  stores:
+    hill farm:
+      2026-10-19: 75.00

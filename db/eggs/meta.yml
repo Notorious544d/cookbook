@@ -1,0 +1,13 @@
+default_unit: g
+density: 1.03
+storage:
+  shelf life: 30
+  fridge life: 60
+
+aisle: dairy
+aliases: []
+
+unit_size:
+  small: 50
+  medium: 60
+  large: 70

@@ -19,7 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - id: site
-        uses: Notorious544d/cookdb@v0.1.0
+        uses: Notorious544d/cookdb@v0.1.1
         with:
           recipes-dir: .
       - uses: actions/upload-pages-artifact@v3

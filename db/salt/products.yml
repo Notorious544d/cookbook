@@ -3,3 +3,17 @@
   stores:
     aldi:
       2024-11-24: 1.15
+
+- name: M&S Table Salt
+  barcode: ""
+  quantity: 400
+  stores:
+    m&s:
+      2025-08-31: 0.40
+
+- name: Maldon Sea Salt
+  barcode: ""
+  quantity: 250
+  stores:
+    m&s:
+      2026-11-02: 2.50

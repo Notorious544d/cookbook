@@ -1,0 +1,6 @@
+- name: M&S Plain Flour
+  barcode: ""
+  quantity: 1500
+  stores:
+    m&s:
+      2025-08-31: 0.85

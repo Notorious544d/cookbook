@@ -1,0 +1,7 @@
+- name: M&S Unsalted Butter
+  barcode: ""
+  quantity: 250
+  stores:
+    m&s:
+      2026-11-02: 1.85
+      2025-08-31: 2.00

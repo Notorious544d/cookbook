@@ -1,0 +1,7 @@
+- name: Aldi Sunflower Oil
+  barcode: ""
+  quantity: 1000
+  stores:
+    aldi:
+      2026-11-02: 1.49
+      2024-11-24: 1.99

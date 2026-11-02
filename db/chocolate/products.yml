@@ -1,23 +1,31 @@
-- name: No1 80%
+- name: Waitrose No1 80%
+  quantity: 100
+  stores:
+    waitrose:
+      2026-10-19: 2.40
+  rating: 5.0
+  image: "https://ecom-su-static-prod.wtrecom.com/images/products/4/LN_617017_BP_4.jpg"
+  notes: "Current favourite. RRP: £3.00"
+
+- name: Waitrose No1 85%
   quantity: 100
   stores:
     waitrose:
       2026-10-19: 2.40
 
-- name: No1 85%
-  quantity: 100
-  stores:
-    waitrose:
-      2026-10-19: 2.40
-
-- name: Specially Selected 85%
+- name: Asda Exceptional 85%
   quantity: 100
   stores:
     asda:
       2026-10-19: 2.28
+  rating: 4.5
+  image: "../cooklang-ingredients/db/.images/asda_85.avif"
+  notes: Current go-to
 
-- name: Green & Black 85%
+- name: Green & Black's 85%
   quantity: 90
   stores:
-    asda:
+    sainsbury's:
       2026-10-19: 2.75
+  rating: 4.5
+  notes: "RRP: £3.50"

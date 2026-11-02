@@ -1,0 +1,6 @@
+- name: M&S Granulated Sugar
+  barcode: ""
+  quantity: 1000
+  stores:
+    m&s:
+      2025-08-31: 1.10
